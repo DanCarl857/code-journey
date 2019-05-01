@@ -15,6 +15,8 @@ Also, started a video course in VueJS
 
 **Today's Progress**: Worked on Machine learning with JS where I learned about _classification_ and _regression_ outputs and implemented the *kNN* algorithm, built a simple application with VueJS and went through some videos on how to stay current with frontend technologies.
 
+**Thoughts:** Really enjoying VueJS and Machine learning. Loved the machine learning course more than I had expected to. Also been trying to relearn HTML5 and CSS3 so I can retake the IQ tests on Pluralsight, my last try without preparing put me at *proficient*
+
 **Links to work:**
 * [Machine Learning Code](https://github.com/DanCarl857/machine-learning-js/blob/master/MLKits-master/plinko/score.js)
 * [NoteMaster - VueJS App](https://github.com/DanCarl857/vue-adventures/blob/master/notemaster/index.html)
