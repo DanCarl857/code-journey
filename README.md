@@ -19,7 +19,7 @@ Also, started a video course in VueJS
 
 **Links to work:**
 * [Machine Learning Code](https://github.com/DanCarl857/machine-learning-js/blob/master/MLKits-master/plinko/score.js)
-* [NoteMaster - VueJS App](https://github.com/DanCarl857/vue-adventures/blob/master/notemaster/index.html)
+* [NoteMaster - VueJS App](http://rough-stage.surge.sh/)
 * [Staying up to date with Front-end technologies](http://audaciousleap.com/how-to-stay-up-to-date-front-end-technologies/)
 
 ### Day 2: Wednesday 1 May, 2019
