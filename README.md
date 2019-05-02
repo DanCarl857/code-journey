@@ -24,6 +24,7 @@ Also, started a video course in VueJS
 
 ### Day 2: Wednesday 1 May, 2019
 
-**Today's Progress**:
+**Today's Progress**: Worked on relearning CSS and HTML basics again. Re-took my IQ test in CSS on pluralsight again, still got a *proficient* :-(. Went through an intro course in Cloud development and databases. Also went through some research for a possible client project I might get.
 
 **Links to work:**
+* [Pluralsight](pluralsight.com)
