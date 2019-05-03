@@ -26,5 +26,23 @@ Also, started a video course in VueJS
 
 **Today's Progress**: Worked on relearning CSS and HTML basics again. Re-took my IQ test in CSS on pluralsight again, still got a *proficient* :-(. Went through an intro course in Cloud development and databases. Also went through some research for a possible client project I might get.
 
+**Thoughts:** Today was a very productive day. Loved every moment of the work day. Feel like am getting my mojo back :-)
+
 **Links to work:**
 * [Pluralsight](pluralsight.com)
+
+### Day 3: Thursday 2 May, 2019
+
+**Today's Progress:** Worked on docker and docker compose config for a platform for a friend. Also completed my Executive briefing to Databases course. Continued with sreen capture feature research am doing for a client project.
+
+**Thoughts:** Generally a down day for me. Felt like I needed a vacation or something so didn't do as much as I wanted.
+
+**Links to work:**
+
+### Day 4: Friday 3 May, 2019
+
+**Today's Progress:**:
+
+**Thoughts:**
+
+**Lonks to work:**
