@@ -48,3 +48,12 @@ Also, started a video course in VueJS
 
 **Links to work:**
 * [Starbase](defeated-act.surge.sh)
+
+## Day 5: Saturday 4 May, 2019
+
+**Today's Progress:**: Didn't do much due to no electricity. Attended the F8 developer circles event today. Began working on a Javascript application app and then continued work on a personal project am doing with some friends.
+
+**Thoughts:** Low productivity day due to no electricity.
+
+**Links to work:**
+NA
