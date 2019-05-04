@@ -38,11 +38,13 @@ Also, started a video course in VueJS
 **Thoughts:** Generally a down day for me. Felt like I needed a vacation or something so didn't do as much as I wanted.
 
 **Links to work:**
+* NA
 
 ### Day 4: Friday 3 May, 2019
 
-**Today's Progress:**:
+**Today's Progress:**: Worked on VueJS and built a simple application which makes use of the Star wars API. Also worked on HTML5 and CSS courses on pluralsight. I also rebegan my journey in Golang(*trying to take it one day at a time*). Also completed an executive intro to databases.
 
-**Thoughts:**
+**Thoughts:** Real productive day today, looking forward to carry this over into the weekend
 
-**Lonks to work:**
+**Links to work:**
+* [Starbase](defeated-act.surge.sh)
