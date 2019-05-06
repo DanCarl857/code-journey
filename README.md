@@ -49,11 +49,20 @@ Also, started a video course in VueJS
 **Links to work:**
 * [Starbase](defeated-act.surge.sh)
 
-## Day 5: Saturday 4 May, 2019
+### Day 5: Saturday 4 May, 2019
 
 **Today's Progress:**: Didn't do much due to no electricity. Attended the F8 developer circles event today. Began working on a Javascript application app and then continued work on a personal project am doing with some friends.
 
 **Thoughts:** Low productivity day due to no electricity.
+
+**Links to work:**
+NA
+
+### Day 6: Sunday 5 May, 2019
+
+**Today's Progress:** Worked on a React Native app am building with friends. Had fun building some of the components and applying best practices to the app. Intend to finish the mobile application this week so I can work on some other personal projects. Also continued work with a client project. Went through an introduction to GCP in preparation for the IQ test I intend to take this week.
+
+**Thoughts:** Mildly productive day as it was a Sunday which is generaly my rest day.
 
 **Links to work:**
 NA
