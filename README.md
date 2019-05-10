@@ -38,7 +38,7 @@ Also, started a video course in VueJS
 **Thoughts:** Generally a down day for me. Felt like I needed a vacation or something so didn't do as much as I wanted.
 
 **Links to work:**
-* NA
+* [NA]()
 
 ### Day 4: Friday 3 May, 2019
 
@@ -56,7 +56,7 @@ Also, started a video course in VueJS
 **Thoughts:** Low productivity day due to no electricity.
 
 **Links to work:**
-NA
+[NA]()
 
 ### Day 6: Sunday 5 May, 2019
 
@@ -65,4 +65,42 @@ NA
 **Thoughts:** Mildly productive day as it was a Sunday which is generaly my rest day.
 
 **Links to work:**
-NA
+[NA]()
+
+### Day 7: Monday 6 May, 2019
+
+**Today's Progress:** Continued working on the personal project I started with a couple of friends. Today worked on the login and onboarding screens which I really loved after I was done. Also went through a few courses on pluralsight about CSS.
+
+**Thoughts:** Really liked how it went today. Loved how I just went all in and at the end of the day it was a fulfilling day.
+
+**Links to work:**
+[NA]()
+
+### Day 8: Tuesday 8 May, 2019
+
+**Today's Progress:** Today I worked on a feature request app with Flask-Restful and jQuery. It was quite exihilirating and fun. Its been a while I just worked on such a project out of the blue and I really loved every minute of it.
+
+**Thoughts:** Wonderful day. Loved the project.
+
+**Links to work:**
+* [Github](https://github.com/DanCarl857/feature-request-app)
+* [Feature-App](http://54.198.213.247:8080/)
+
+### Day 9: Wednesday 9 May, 2019
+
+**Today's Progress:** Completed the feature request app today. Added some tests and then dockerised both the frontend and backend. Also used docker-compose to manage and run my containers together. Later on hosted the application on AWS.
+
+**Thoughts:** Today was whole lot of fun. Enjoyed every minute of it. Wish many more days were like this.
+
+**Links to work:**
+* [Github](https://github.com/DanCarl857/feature-request-app)
+* [Feature-App](http://54.198.213.247:8080/)
+
+### Day 10: Thursday 10 May, 2019
+
+**Today's Progress:** Today mostly spent time leading a workshop on React Native. So most of the participants were new to Javascript so we had a refresher of Javascript today.
+
+**Thoughts:** Truth be told was hoping for a bit more advanced crowd, but well all in all its always good to share knowledge.
+
+**Links to work:**
+* [Day1](https://github.com/DanCarl857/react-native-workshop/tree/master/Day1)
