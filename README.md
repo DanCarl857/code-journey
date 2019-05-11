@@ -104,3 +104,22 @@ Also, started a video course in VueJS
 
 **Links to work:**
 * [Day1](https://github.com/DanCarl857/react-native-workshop/tree/master/Day1)
+
+### Day 11: Friday 11 May, 2019
+
+**Today's Progress:** Today worked on a vanillaJS application with HTML and CSS. Was a fun little app and gave me ideas for 2 new mobile applications(_Hope I get around to finishing those_). Was Day2 of the react native workshop, I've been at. Today we worked on the basics of React Native(components, props, styling, project structure). Also worked on some Docker configurations for a friends platform he is launching. We also learnt about how to structure components and react native projects. Got extremely tired after the workshop and decided to get some rest.
+
+**Thoughts:** Was happy I was able to learn a few things in VanillaJS, build an application with the workshop participants and even get some Docker/Docker-compose going. Wish I could do more.
+
+**Links to work:**
+* [FlashCardsApp](foolish-anger.surge.sh)
+* [Day2](https://github.com/DanCarl857/react-native-workshop/tree/master/Day2)
+* [AvengersApp](https://github.com/DanCarl857/react-native-workshop/tree/master/Day2/avengersApp)
+
+### Day 12: Saturday 12 May, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links to work:**
