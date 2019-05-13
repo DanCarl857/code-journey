@@ -118,8 +118,19 @@ Also, started a video course in VueJS
 
 ### Day 12: Saturday 12 May, 2019
 
-**Today's Progress:**
+**Today's Progress:** Today was the final day for the React Native workshop. Today we learned about states and built a Todo list application. We rounded up the work shop with awards for the participants and some Q&A
 
-**Thoughts:**
+**Thoughts:** Pretty tiring day. Hope to catchup on all my work in the coming week.
 
 **Links to work:**
+* [TodoApp](https://github.com/DanCarl857/react-native-workshop/tree/master/Day3/TodoList)
+* [Day3](https://github.com/DanCarl857/react-native-workshop/tree/master/Day3)
+
+### Day 13: Sunday 13 May, 2019
+
+**Today's Progress:** Decided to rest today. Merged a few PRs and had some client meetings and project planning for the upcoming week. Really looking forward to catching up on all my work this weekk.
+
+**Thoughts:** Chilling day
+
+**Links to work:**
+* [PR](https://github.com/DanCarl857/react-native-workshop/pull/3)
