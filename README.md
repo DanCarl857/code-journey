@@ -76,7 +76,7 @@ Also, started a video course in VueJS
 **Links to work:**
 [NA]()
 
-### Day 8: Tuesday 8 May, 2019
+### Day 8: Tuesday 7 May, 2019
 
 **Today's Progress:** Today I worked on a feature request app with Flask-Restful and jQuery. It was quite exihilirating and fun. Its been a while I just worked on such a project out of the blue and I really loved every minute of it.
 
@@ -86,7 +86,7 @@ Also, started a video course in VueJS
 * [Github](https://github.com/DanCarl857/feature-request-app)
 * [Feature-App](http://54.198.213.247:8080/)
 
-### Day 9: Wednesday 9 May, 2019
+### Day 9: Wednesday 8 May, 2019
 
 **Today's Progress:** Completed the feature request app today. Added some tests and then dockerised both the frontend and backend. Also used docker-compose to manage and run my containers together. Later on hosted the application on AWS.
 
@@ -96,7 +96,7 @@ Also, started a video course in VueJS
 * [Github](https://github.com/DanCarl857/feature-request-app)
 * [Feature-App](http://54.198.213.247:8080/)
 
-### Day 10: Thursday 10 May, 2019
+### Day 10: Thursday 9 May, 2019
 
 **Today's Progress:** Today mostly spent time leading a workshop on React Native. So most of the participants were new to Javascript so we had a refresher of Javascript today.
 
@@ -105,7 +105,7 @@ Also, started a video course in VueJS
 **Links to work:**
 * [Day1](https://github.com/DanCarl857/react-native-workshop/tree/master/Day1)
 
-### Day 11: Friday 11 May, 2019
+### Day 11: Friday 10 May, 2019
 
 **Today's Progress:** Today worked on a vanillaJS application with HTML and CSS. Was a fun little app and gave me ideas for 2 new mobile applications(_Hope I get around to finishing those_). Was Day2 of the react native workshop, I've been at. Today we worked on the basics of React Native(components, props, styling, project structure). Also worked on some Docker configurations for a friends platform he is launching. We also learnt about how to structure components and react native projects. Got extremely tired after the workshop and decided to get some rest.
 
@@ -116,7 +116,7 @@ Also, started a video course in VueJS
 * [Day2](https://github.com/DanCarl857/react-native-workshop/tree/master/Day2)
 * [AvengersApp](https://github.com/DanCarl857/react-native-workshop/tree/master/Day2/avengersApp)
 
-### Day 12: Saturday 12 May, 2019
+### Day 12: Saturday 11 May, 2019
 
 **Today's Progress:** Today was the final day for the React Native workshop. Today we learned about states and built a Todo list application. We rounded up the work shop with awards for the participants and some Q&A
 
@@ -126,7 +126,7 @@ Also, started a video course in VueJS
 * [TodoApp](https://github.com/DanCarl857/react-native-workshop/tree/master/Day3/TodoList)
 * [Day3](https://github.com/DanCarl857/react-native-workshop/tree/master/Day3)
 
-### Day 13: Sunday 13 May, 2019
+### Day 13: Sunday 12 May, 2019
 
 **Today's Progress:** Decided to rest today. Merged a few PRs and had some client meetings and project planning for the upcoming week. Really looking forward to catching up on all my work this weekk.
 
@@ -134,3 +134,30 @@ Also, started a video course in VueJS
 
 **Links to work:**
 * [PR](https://github.com/DanCarl857/react-native-workshop/pull/3)
+
+### Day 14: Monday 13 May, 2019
+
+**Today's Progress:** Today was just one of those days. Got almost nothing done.
+
+**Thoughts:** A down day for me. I really need a job lol
+
+**Links to work:**
+[NA]()
+
+### Day 15: Tuesday 14 May, 2019
+
+**Today's Progress:** Today was pretty destabilizing as I think I got some bad news, not quite sure yet. Started looking at Spring Boot for a client project I have a few days to finish up with. Its been 2years since I last wrote some code in Spring Boot so I have to refresh my knowledge. Also moved my application from AWS to GCP due to some payment issues.
+
+**Thoughts:** Bitter sweet day for me
+
+**Links to work:**
+* [Tutorial](https://dzone.com/articles/spring-boot-restful-web-service-complete-example)
+
+### Day 16: Wednesday 15 May, 2019
+
+**Today's Progress:** Today continued working with Spring boot. Looked at building microservices with Spring boot as that's what the client is using. I also came up with a plan to finish up my tutorials on Hooks, VueJS and then worked on some designs.
+
+**Thoughts:** Slow day. Still feeling the effects of yesterday.
+
+**Links to work:**
+* [Tutorial](https://www.springboottutorial.com/creating-microservices-with-spring-boot-part-1-getting-started)
