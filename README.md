@@ -137,7 +137,7 @@ Also, started a video course in VueJS
 
 ### Day 14: Monday 13 May, 2019
 
-**Today's Progress:** Today was just one of those days. Got almost nothing done.
+**Today's Progress:** Today was just one of those days. Got almost nothing done. Worked on a few designs
 
 **Thoughts:** A down day for me. I really need a job lol
 
@@ -161,3 +161,40 @@ Also, started a video course in VueJS
 
 **Links to work:**
 * [Tutorial](https://www.springboottutorial.com/creating-microservices-with-spring-boot-part-1-getting-started)
+
+### Day 17: Thursday 16 May, 2019
+
+**Today's Progress:** Today worked on a client application. This is a really app. Its something I myself have been thinking of building. Luckily I was contracted to work on it. Shouldn't take that long to complete but I intend to enjoy every moment of it. Also began a course on react hooks.
+
+**Thoughts:** Nice day, excited about the new project. Looking to round up with a few other projects too.
+
+**Links to work:**
+* [NA]()
+
+### Day 18: Friday 17 May, 2019
+
+**Today's Progress:** Started a video course on GraphQL and then completed the React course. Also worked on a microservices application I'm working on for a client.
+
+**Thoughts:** Nice day where I got to learn and relearn a lot.
+
+**Links to work:**
+* [React-Hooks](https://github.com/DanCarl857/react-hooks)
+* [Graphql](https://github.com/DanCarl857/graphql)
+
+### Day 19: Saturday 18 May, 2019
+
+**Today's Progress:** Today I continued with the microservices application I am working on. Also designed some mobile screens for the most recent client application. Also built a simple REST api with Spring Boot.
+
+**Thoughts:** Pretty productive day
+
+**Links to work:**
+* [Spring-api](https://github.com/DanCarl857/spring-restful-api)
+
+### Day 20: Sunday 19 May, 2019
+
+**Today's Progress:** Tried working on a few client projects. Just wasn't feeling it so decided to take a break. Did some architectural reviews on a client project. Also started with a project the client had frozen and they unfroze it today. Intend to be done with this particular project in the next 5days(_its just the frontend part of it_)
+
+**Thoughts:** Very slow day.
+
+** Links to work:**
+* [NA]()
