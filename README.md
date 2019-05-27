@@ -196,5 +196,69 @@ Also, started a video course in VueJS
 
 **Thoughts:** Very slow day.
 
-** Links to work:**
+**Links to work:**
+* [NA]()
+
+### Day 21: Monday 20 May, 2019
+
+**Today's Progress:** Today I wanted to work on a simple Star Wars app using SWAPI. But realized the API doesn't come with images so switched to Marvel. Created a basic app structure and left it at that due to some client work. Also started on another client project for iOS and Android
+
+**Thoughts:** Pretty calm and normal day. Really hoped I had done the Star Warss app.
+
+**Links to work:**
+* [Marvel](https://github.com/DanCarl857/marvel-app) - #WIP
+
+
+### Day 22: Tuesday 21 May, 2019
+
+**Today's Progress:** Today focused on some microservices I was building for a client. Wass a bit rusty on my spring security knowledge and built a simple oauth system in spring boot & spring security. Also setup some of the microservices for the client on gitlab. 
+
+**Thoughts:** Pretty intense day for me. Loved it.
+
+**Links to work:**
+* [Oauth](https://github.com/DanCarl857/oauth-security)
+
+### Day 23: Wednesday 22 May, 2019
+
+**Today's Progress:** Continued with the microservices of yesterday as I needed to update the client tomorrow. Real happy with how it turned out. Damn, remember why I stopped coding in Java now ;-)
+
+**Thoughts:** Really intense day. Still loving the vibe
+
+**Links to work:**
+* [NA]()
+
+### Day 24: Thursday 23 May, 2019
+
+**Today's Progress:** Continued work on the microservices architecture am setting up for a client. Decided to start today by building a very simple microservices platform with a JWT gateway. Then continued with the client work.
+
+**Thoughts:** Intense.
+
+**Links to work:**
+* [Microservices](https://github.com/DanCarl857/spring-microservices)
+
+### Day 25: Friday 24 May, 2019
+
+**Today's Progress:** Had a ton of meetings :-(. Damn I really hate the regular 9-5 and today was such a day and I had to go to an office etc. Hated every minute of it but loved the architectural designs I was doing. Also got a job offer to be a CTO at a local startup(That's something I'll have to think about).
+
+**Thoughts:** Blah
+
+**Links to work:**
+* [NA]()
+
+### Day 26: Saturday 25 May, 2019
+
+**Today's Progress:** Not much to do, electricity issues due to the heavy rains. So at some point decided to cook instead.
+
+**Thoughts:** Feel like it was wasted in terms of programming/software but I took the time to do other fun stuff. 
+
+**Links to work:**
+* [NA]()
+
+### Day 27: Sunday 26 May, 2019
+
+**Today's Progress:** Started with a simple app to help a friend for a contract he is to demo on Wednesday. This should be  a mobile to be done in a few hours.
+
+**Thoughts:** As always, it was a pretty lazy day.
+
+**Links to work:**
 * [NA]()
