@@ -1,5 +1,7 @@
 # 365 Days Of Code - Log
 
+#### [Back to home](https://github.com/DanCarl857/code-journey)
+
 ### Day 0: Monday 29 April, 2019
 
 **Today's Progress**: Worked on VueJS Basics, played around with some basic concepts and started a book. Intend to finish it this week.
