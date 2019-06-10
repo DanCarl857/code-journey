@@ -8,9 +8,73 @@ Sometimes I'll just build stuff(when I have the time though ;-)).
 
 Feel free to reach out to me for any questions, work or just to chat and collaborate together.
 
-### [Day 1 to 30]()
+### [Day 1 to 30](https://github.com/DanCarl857/code-journey/blob/master/archive/day1to30.md)
 
-### Day 30: Wednesday 28 May, 2019
+### Day 31: Thursday 29 May, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links to work:**
+
+### Day 32: Friday 30 May, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links to work:**
+
+### Day 33: Saturday 31 May, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links to work:**
+
+### Day 34: Sunday 1 June, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links to work:**
+
+### Day 35: Monday 2 June, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links to work:**
+
+### Day 36: Tuesday 3 June, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links to work:**
+
+### Day 37: Wednesday 4 June, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links to work:**
+
+### Day 38: Thursday 5 June, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Links to work:**
+
+### Day 39: Friday 6 June, 2019
 
 **Today's Progress:**
 
